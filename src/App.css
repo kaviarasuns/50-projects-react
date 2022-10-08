@@ -13,3 +13,10 @@ body {
   overflow: hidden;
   margin: 0;
 }
+
+.goHome {
+  position: fixed;
+  top: 30px;
+  left: 40px;
+  text-decoration: none;
+}
